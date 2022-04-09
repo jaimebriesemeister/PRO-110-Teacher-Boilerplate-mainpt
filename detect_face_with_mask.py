@@ -1,7 +1,7 @@
 # importe a biblioteca opencv
 import cv2
   
-# defina um obketo de captura de vídeo
+# defina um objeto de captura de vídeo
 vid = cv2.VideoCapture(0)
   
 while(True):
